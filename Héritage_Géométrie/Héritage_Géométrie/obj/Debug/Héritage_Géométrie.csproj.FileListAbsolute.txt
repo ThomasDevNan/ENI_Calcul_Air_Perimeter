@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Héritage_Géométrie\Héritage_Géométrie\obj\Debug\Héritage_Géométrie.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Héritage_Géométrie\Héritage_Géométrie\obj\Debug\Héritage_Géométrie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Héritage_Géométrie\Héritage_Géométrie\bin\Debug\Héritage_Géométrie.exe.config
+C:\Users\User\source\repos\Héritage_Géométrie\Héritage_Géométrie\bin\Debug\Héritage_Géométrie.exe
+C:\Users\User\source\repos\Héritage_Géométrie\Héritage_Géométrie\bin\Debug\Héritage_Géométrie.pdb
+C:\Users\User\source\repos\Héritage_Géométrie\Héritage_Géométrie\obj\Debug\Héritage_Géométrie.exe
+C:\Users\User\source\repos\Héritage_Géométrie\Héritage_Géométrie\obj\Debug\Héritage_Géométrie.pdb
